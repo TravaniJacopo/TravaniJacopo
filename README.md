@@ -23,7 +23,7 @@
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="58%" valign="top"><h2>The point of view</h2><blockquote>Biomedical Informatics student @ ITS Life Technologies, Trieste 🇮🇹</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · Trieste<br />FOCUS · Java</sub></p><p><strong>2</strong> repos<br /><strong>17</strong> contributions<br /><strong>6</strong> followers</p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Software Developer <br />BASED · Trieste<br />FOCUS · Java</sub></p><p><strong>2</strong> repos<br /><strong>17</strong> contributions<br /><strong>6</strong> followers</p></td>
 </tr>
 </table>
 
