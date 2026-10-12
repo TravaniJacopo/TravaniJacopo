@@ -8,7 +8,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&label=Travani%20Jacopo&v=cinematic-hero-wordmark-1&mode=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&label=JAVA%20Jacopo&v=cinematic-hero-wordmark-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/wordmark?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&label=Travani%20Jacopo&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Travani Jacopo animated ASCII name" />
 </picture>
 
