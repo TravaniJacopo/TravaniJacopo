@@ -1,6 +1,5 @@
 <div align="center">
 
-<p><sub>AN EDITORIAL PROFILE · TRAVANIJACOPO</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&label=Travani%20Jacopo&mode=light" />
