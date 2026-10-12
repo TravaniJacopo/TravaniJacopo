@@ -7,7 +7,6 @@
   <img src="https://www.gitskins.com/api/section/hero?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&label=Travani%20Jacopo&mode=dark" width="100%" alt="Travani Jacopo cinematic profile scene" />
 </picture>
 
-
 <p><strong> Software Developer</strong> · Trieste</p>
 <p>Biomedical Informatics student @ ITS Life Technologies, Trieste 🇮🇹</p>
 
@@ -19,7 +18,7 @@
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="58%" valign="top"><h2>The point of view</h2><blockquote>Biomedical Informatics student @ ITS Life Technologies, Trieste 🇮🇹</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Software Developer <br />BASED · Trieste<br />FOCUS · Java</sub></p><p><strong>2</strong> repos<br /><strong>17</strong> contributions<br /><strong>6</strong> followers</p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Software Developer <br />BASED · Trieste<br />FOCUS · Java / Web Dev</sub></p><p><strong>2</strong> repos<br /><strong>17</strong> contributions<br /><strong>6</strong> followers</p></td>
 </tr>
 </table>
 
@@ -28,8 +27,9 @@
 <h2>In the current cut</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&items=Java%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CTypeScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&items=Java%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CTypeScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="Travani Jacopo cinematic highlights" />
+  <!-- Ho aggiornato i parametri per mostrare che stai studiando Python e Django -->
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&items=Java%3A%3ACurrent%20focus%7CPython%3A%3ACurrently%20studying%7CDjango%3A%3ACurrently%20studying&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&items=Java%3A%3ACurrent%20focus%7CPython%3A%3ACurrently%20studying%7CDjango%3A%3ACurrently%20studying&v=cinematic-highlights-2&mode=dark" width="100%" alt="Travani Jacopo cinematic highlights" />
 </picture>
 
 <p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
@@ -38,12 +38,22 @@
 
 <h2>Production palette</h2>
 
+<!-- SEZIONE SKILLS AGGIUNTA TRAMITE SKILLICONS API -->
+<div align="center">
+  <p><sub>LANGUAGES & TOOLS I KNOW</sub></p>
+  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,angular&theme=dark" alt="Skills" />
+  <br><br>
+  <p><sub>CURRENTLY STUDYING</sub></p>
+  <img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Studying" />
+  <br><br>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&v=cinematic-stack-2&mode=light" />
   <img src="https://www.gitskins.com/api/section/stack?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Travani Jacopo animated technology stack" />
 </picture>
 
-<p align="center"><sub>Java · JavaScript · TypeScript · Pug · HTML · CSS · PHP · Hack · tools chosen for the work, not the trend</sub></p>
+<p align="center"><sub>Java · JavaScript · PHP · HTML · CSS · Angular · Python · Django · tools chosen for the work, not the trend</sub></p>
 
 <p align="center"><sub>─────── ◇ ───────</sub></p>
 
