@@ -39,7 +39,7 @@
 </div>
 
 
-<p align="center"><sub>Java · JavaScript · PHP · HTML · CSS · Angular · Python · Django · tools chosen for the work, not the trend</sub></p>
+<p align="center"><sub>Java · JavaScript · PHP · HTML · CSS · Angular · Python · Django </sub></p>
 
 <p align="center"><sub>─────── ◇ ───────</sub></p>
 
@@ -91,7 +91,4 @@
   <img src="https://www.gitskins.com/api/section/social?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="Travani Jacopo contact links" />
 </picture>
 
-<p><a href="https://github.com/travanijacopo">GitHub</a></p>
-
-<p><sub>Travani Jacopo · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>
