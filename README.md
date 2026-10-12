@@ -12,7 +12,7 @@
   <img src="https://www.gitskins.com/api/section/wordmark?username=travanijacopo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127383977%3Fv%3D4&label=Travani%20Jacopo&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Travani Jacopo animated ASCII name" />
 </picture>
 
-<p><strong>Frontend or full-stack engineer</strong> · Trieste</p>
+<p><strong> Software Developer</strong> · Trieste</p>
 <p>Biomedical Informatics student @ ITS Life Technologies, Trieste 🇮🇹</p>
 
 <p><a href="https://github.com/travanijacopo">GitHub</a></p>
