@@ -56,11 +56,6 @@
 </tr>
 </table>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<p align="center"><sub>2 public projects · 17 contributions · 6 followers</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
 
 <h2>Contribution trail</h2>
 
